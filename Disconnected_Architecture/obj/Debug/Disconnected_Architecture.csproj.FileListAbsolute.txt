@@ -1,0 +1,7 @@
+C:\Users\soums\OneDrive\Desktop\MSSQL\Day7\Disconnected_Architecture\Disconnected_Architecture\bin\Debug\Disconnected_Architecture.exe.config
+C:\Users\soums\OneDrive\Desktop\MSSQL\Day7\Disconnected_Architecture\Disconnected_Architecture\bin\Debug\Disconnected_Architecture.exe
+C:\Users\soums\OneDrive\Desktop\MSSQL\Day7\Disconnected_Architecture\Disconnected_Architecture\bin\Debug\Disconnected_Architecture.pdb
+C:\Users\soums\OneDrive\Desktop\MSSQL\Day7\Disconnected_Architecture\Disconnected_Architecture\obj\Debug\Disconnected_Architecture.csproj.AssemblyReference.cache
+C:\Users\soums\OneDrive\Desktop\MSSQL\Day7\Disconnected_Architecture\Disconnected_Architecture\obj\Debug\Disconnected_Architecture.csproj.CoreCompileInputs.cache
+C:\Users\soums\OneDrive\Desktop\MSSQL\Day7\Disconnected_Architecture\Disconnected_Architecture\obj\Debug\Disconnected_Architecture.exe
+C:\Users\soums\OneDrive\Desktop\MSSQL\Day7\Disconnected_Architecture\Disconnected_Architecture\obj\Debug\Disconnected_Architecture.pdb
